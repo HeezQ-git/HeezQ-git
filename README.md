@@ -1,16 +1,38 @@
-<h1 align="center">Hi 👋, I'm Wiktor</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<style>
+h3 {
+	margin-bottom: 2px !important;
+}
+</style>
 
-- 🔭 I’m currently working on [NYT Web Games](https://web-games-one.vercel.app/)
+<h1>Hi 👋 I'm Wiktor</h1>
+<p>I'm a <span style="background: linear-gradient(45deg, #fc00ff, #00dbde); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700; text-transform: uppercase;">Fullstack Web Developer</span> working on personal projects to improve my skills. I love creating web applications that are eye-catching and are easy to use. I'm always looking for new ways to learn and grow as a developer. Feel free to reach out to me if you have any questions or just want to chat!</p>
 
-- 📫 How to reach me **heezq.contact@gmail.com**
+<h2>TECH STACK</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/wiktor-pawlikowski-42b27323b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wiktor-pawlikowski-42b27323b/" height="30" width="40" /></a>
-</p>
+<h3>Frontend</h3>
+<a href="https://react.dev/" target="_blank"><img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" /></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+<a href="https://postcss.org/" target="_blank"><img src="https://img.shields.io/badge/postcss-dd3a0a?style=for-the-badge&logo=postcss&logoColor=white" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-06b6d4?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+<a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&logoColor=white" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heezq-git&show_icons=true&locale=en&layout=compact" alt="heezq-git" /></p>
+<h3>Backend</h3>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-68a063?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/express.js-efd81d?style=for-the-badge&logo=express&logoColor=black" /></a>
+<a href="https://mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/mongodb-118d4d?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+
+<h3>Tools</h3>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-e84e31?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="https://postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-fd6b36?style=for-the-badge&logo=postman&logoColor=white" /></a>
+<a href="https://figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-a55eff?style=for-the-badge&logo=figma&logoColor=white" /></a>
+
+<h3>Deployment</h3>
+<a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+
+<h2>CONNECT WITH ME</h2>
+<a href="https://www.linkedin.com/in/wiktor-pawlikowski-42b27323b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://discord.com/users/431492131392323585" target="_blank"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
+<p align="center" style="margin-top: 30px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heezq-git&show_icons=true&locale=en&layout=compact&theme=dark" alt="heezq-git" /></p>
